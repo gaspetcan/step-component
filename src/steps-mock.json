@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Muhsin",
+      "content": {
+        "title": "Muhsin Bey Ağır Delikanlıdır",
+        "image": "https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"
+      }
+    },
+    {
+      "title": "Rıfkı",
+      "content": {
+        "title": "Rıfkı Bey Ağır Delikanlıdır",
+        "image": "https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif"
+      }
+    },
+    {
+      "title": "Ali Mert",
+      "content": {
+        "title": "Ali Mert all night coder",
+        "image": "https://i.giphy.com/wIU9MjBVKF4Qw.gif "
+      }
+    },
+    {
+      "title": "Yağız",
+      "content": {
+        "title": "Yağız all night gamer",
+        "image": "https://i.giphy.com/MdA16VIoXKKxNE8Stk.gif "
+      }
+    } 
+  ]
